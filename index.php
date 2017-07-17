@@ -1,6 +1,9 @@
-?php header( '
-
-<meta http-equiv="X-UA-Compatible" content="IE=11,chrome=1">
+<?php
+session_start();
+include_once 'header.php';
+?>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=11,chrome=1">
     <!--Title-->
     <title>Datos de visualizacion</title>
     <!--Scripts-->
@@ -15,11 +18,8 @@
     <!--CSS-->
     <link rel="stylesheet" href="./assets/css/style.css">
     <link href="./assets/css/bootstrap.css" rel="stylesheet">
-
-' ) ;  ?>
-
-<!DOCTYPE HTML>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
+</head>
+<body>
 
 <body>
     <nav id="ribbon" class="navbar navbar-inverse navbar-fixed-top" >
