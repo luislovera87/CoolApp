@@ -1,1 +1,1 @@
-?php header( 'Location: /Ventas.html' ) ;  ?>
+?php header( 'Location: https://github.com/luislovera87/CoolApp/blob/master/Ventas.html' ) ;  ?>
