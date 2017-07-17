@@ -1,4 +1,4 @@
-?php header( 'Location: https://github.com/luislovera87/CoolApp/blob/master/Ventas.html' ) ;  ?>
+?php header( 'Location: https://github.com/luislovera87/CoolApp/tree/master/assets' ) ;  ?>
 
 <!DOCTYPE HTML>
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
