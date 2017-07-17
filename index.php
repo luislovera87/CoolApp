@@ -1,10 +1,6 @@
-?php header( 'Location: https://github.com/luislovera87/CoolApp/tree/master/assets' ) ;  ?>
+?php header( '
 
-<!DOCTYPE HTML>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
-
-<head>
-    <meta http-equiv="X-UA-Compatible" content="IE=11,chrome=1">
+<meta http-equiv="X-UA-Compatible" content="IE=11,chrome=1">
     <!--Title-->
     <title>Datos de visualizacion</title>
     <!--Scripts-->
@@ -19,7 +15,12 @@
     <!--CSS-->
     <link rel="stylesheet" href="./assets/css/style.css">
     <link href="./assets/css/bootstrap.css" rel="stylesheet">
-</head>
+
+' ) ;  ?>
+
+<!DOCTYPE HTML>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
+
 <body>
     <nav id="ribbon" class="navbar navbar-inverse navbar-fixed-top" >
         <div class="container-fluid">
