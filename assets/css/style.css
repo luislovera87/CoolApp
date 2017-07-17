@@ -1,0 +1,93 @@
+/*Tags*/
+/*
+body{
+    padding: 10px;
+}
+*/
+table {
+    border: 2px solid #ddd;
+    widows: 100%;
+    }
+/*
+th{
+    text-align: center;
+}
+*/
+tr{
+    font-size: 12px;
+}
+/*
+td {
+    border: 1px black solid;
+    padding: 5px;
+    }
+*/
+td input{
+    text-align: center;
+    border: none;
+    width: 100%;
+}
+
+hr{
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+/*Ids*/
+
+#txtFileUpload {
+
+    display: inline-block;
+}
+
+#mesSel{
+    width: 20%;
+    display: inline-block;
+}
+
+
+#logo{
+    display: block;
+    width: 150px;
+    height: 35px;
+    margin-top: 9px;
+    margin-right: 10px;
+}
+
+#ribbon{
+    background-color: #000000;
+}
+
+#row_1{
+    /*width:100px;*/
+}
+
+/*Classes*/
+.content {
+    margin-top: 60px
+}
+
+.Mes{
+    width: 100%;
+}
+
+.Vendedor{
+    width: 100%;
+}
+
+.Monto{
+    width: 80%;
+    display: inline;
+}
+
+.Cantidad{
+    width: 100%;
+}
+
+.Equipo{
+    width: 100%;
+}
+
+.active a{
+    cursor: default !important;
+}
