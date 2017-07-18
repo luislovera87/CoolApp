@@ -16,6 +16,7 @@ include_once 'header.php';
     <script src="./assets/js/bootstrap-filestyle.min.js"> </script>
 
     <!--CSS-->
+    <link rel="icon" href="./assets/images/kIconBlk.png">
     <link rel="stylesheet" href="./assets/css/style.css">
     <link href="./assets/css/bootstrap.css" rel="stylesheet">
 </head>
